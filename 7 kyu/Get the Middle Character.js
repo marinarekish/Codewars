@@ -2,10 +2,10 @@
 
 #Examples:
 
-Kata.getMiddle("test") should return "es"
-Kata.getMiddle("testing") should return "t"
-Kata.getMiddle("middle") should return "dd"
-Kata.getMiddle("A") should return "A"
+getMiddle("test") should return "es"
+getMiddle("testing") should return "t"
+getMiddle("middle") should return "dd"
+getMiddle("A") should return "A"
 
 #Input
 A word (string) of length 0 < str < 1000 (In javascript you may get slightly more than 1000 in some test cases due to an error in the test cases). 
